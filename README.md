@@ -2,9 +2,9 @@
 
 Implementazione del progetto di reti logiche 2022
 
-###Studenti
+### Studenti
 [Emanuele Cimino](https://github.com/emacimino) 
 [Ginevra Bozza](https://github.com/ginevra-bozza)
 
-###Valutazione finale
+### Valutazione finale
 29/30
